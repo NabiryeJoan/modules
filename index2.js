@@ -7,3 +7,4 @@ superHero.setName('superman');
 console.log(superHero.getName());
 const newsuperHero=require('./super-hero')
 console.log(newsuperHero.getName());
+//here we talk about the console 
